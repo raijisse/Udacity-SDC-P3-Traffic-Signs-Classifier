@@ -92,7 +92,7 @@ In the end, the final network is the following:
 | RELU   |   |
 | **Layer 4**   |   |
 | Fully connected		| outputs 400 |
-| Dropout   | drops 25% of neurons   |
+| Dropout   | drops 50% of neurons   |
 | RELU   |   |
 | **Layer 5**   |  Not present in the original LeNet architecture |
 | Fully connected		| outputs 43 |
